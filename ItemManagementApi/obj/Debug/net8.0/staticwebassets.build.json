@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DNDS7E3qrodffL27HCybkFVPzhzYYoub+qwlA4AX5Pg=",
+  "Source": "ItemManagementApi",
+  "BasePath": "_content/ItemManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

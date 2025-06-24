@@ -1,0 +1,15 @@
+C:\devenv\projects\C#\ItemManagement\Application\bin\Debug\net8.0\Application.deps.json
+C:\devenv\projects\C#\ItemManagement\Application\bin\Debug\net8.0\Application.dll
+C:\devenv\projects\C#\ItemManagement\Application\bin\Debug\net8.0\Application.pdb
+C:\devenv\projects\C#\ItemManagement\Application\bin\Debug\net8.0\Domain.dll
+C:\devenv\projects\C#\ItemManagement\Application\bin\Debug\net8.0\Domain.pdb
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.dll
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\refint\Application.dll
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\Application.pdb
+C:\devenv\projects\C#\ItemManagement\Application\obj\Debug\net8.0\ref\Application.dll
